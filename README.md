@@ -35,9 +35,9 @@ ChatBOT/
 ├── requirements.txt
 └── README.md
 
-## ⚙️ Installation (Local Setup)
+## ⚙️ Installation (Local Setup)-
 
-### 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 ```bash
 git clone <your-repo-url>
 cd ChatBOT
